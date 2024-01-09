@@ -1,0 +1,31 @@
+01 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137080
+    zip - https://github.com/alura-cursos/logica-js/archive/refs/heads/aula_3.zip
+    github - https://github.com/alura-cursos/logica-js/tree/aula_3
+
+02 - Break
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136483
+
+03 - Operador ternário
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136484
+
+04 - Math random
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136485
+
+05 - Número aleatório
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136486
+
+06 - Número aleatórios
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137540
+
+07 - Operador ternário
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/138407
+
+08 - Desafio: hora da prática
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137091
+
+09 - 
+    url - 
+
+10 - 
+    url - 

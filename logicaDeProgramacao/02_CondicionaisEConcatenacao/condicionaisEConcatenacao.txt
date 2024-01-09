@@ -1,0 +1,36 @@
+01 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137043
+     baixar o zip da aula 01 - https://github.com/alura-cursos/logica-js/archive/refs/heads/aula_1.zip
+     Acessar os arquivos no Github! - https://github.com/alura-cursos/logica-js/tree/aula_1
+
+02 - Else e comentários
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136476
+
+03 - Concatenação
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136477
+
+04 - Live server
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136478
+    
+05 - Alterando a mensagem do alert
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137044
+
+06 - Detran
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137390
+
+07 - Trabalhando com condicionais
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/138405
+
+08 - Faça como eu fiz: console.log
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137046
+
+09 - Desafio: hora da prática
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137047
+    resolução dos desafios neste link - https://github.com/alura-cursos/logica-js/tree/desafio_2
+    
+10 - Para saber mais: ponto e vírgula no JavaScript
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137048
+
+11 - O que aprendemos?
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137066
+    
