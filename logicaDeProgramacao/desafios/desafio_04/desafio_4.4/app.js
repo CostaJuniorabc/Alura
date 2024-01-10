@@ -1,8 +1,0 @@
-alert("Boas vindas ao nosso site!");
-
-// Utilize o prompt e faça a seguinte pergunta: 
-// Qual a linguagem de programação que você mais gosta?. 
-// Em seguida, armazene a resposta em uma variável e mostre no console do navegador.
-
-let linguagem = prompt("Qual a linguagem de programação que você mais gosta?")
-console.log(`Qual a linguagem de programação que você mais gosta? - Resposta : ${linguagem} !!!`);
