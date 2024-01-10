@@ -1,7 +1,8 @@
 alert("Olá Mundo !!!");
 alert("Boas-Vindas ao jogo do Número Secreto.");
 
-let numeroSecreto = parseInt(Math.random() * 100 + 1);
+let numeroMax = 9999;
+let numeroSecreto = parseInt(Math.random() * numeroMax + 1);
 console.log('Valor do numero secreto:', numeroSecreto);
 let numeroChute;
 let tentativas = 1;
@@ -15,7 +16,7 @@ console.log('Resultado da comparação:', numeroChute == numeroSecreto);
 //enquanto chute não for igual ao numero secreto 
 while (numeroChute != numeroSecreto) {
 
-    numeroChute = prompt("Escolha um numero entre 1 e 100");
+    numeroChute = prompt(`Escolha um numero entre 1 e ${numeroMax}`);
 
     // Se chute for igual ao número secreto
     if (numeroChute == numeroSecreto) {

@@ -1,0 +1,28 @@
+01 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137097
+    zip - https://github.com/alura-cursos/logica-js/archive/refs/heads/aula_4.zip
+    github - https://github.com/alura-cursos/logica-js/tree/aula_4
+
+02 - Apresentação do desafio
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136487
+
+03 - Resolvendo o desafio
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136488
+
+04 - Projeto final do curso
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137100
+        zip - https://github.com/alura-cursos/logica-js/archive/refs/heads/aula_5.zip
+        github - https://github.com/alura-cursos/logica-js/tree/aula_5
+
+05 - Conclusão
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136489
+
+06 - Conclusão
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137102
+
+07 - Referências
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/146034
+
+08 - Créditos
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137103
+

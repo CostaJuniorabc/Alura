@@ -24,8 +24,8 @@
 08 - Desafio: hora da prática
     url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137091
 
-09 - 
-    url - 
+09 - Para saber mais: preciso decorar cada linha de código ou comando?
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137092
 
-10 - 
-    url - 
+10 - O que aprendemos?
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137093
