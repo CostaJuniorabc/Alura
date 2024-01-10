@@ -1,0 +1,28 @@
+01 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137067
+    zip - https://github.com/alura-cursos/logica-js/archive/refs/heads/aula_2.zip
+    github - https://github.com/alura-cursos/logica-js/tree/aula_2
+
+02 - Novas Condioções
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136479
+
+03 - Enquanto (while)
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136480
+
+04 - Tentativas
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/136481
+
+05 - Contador 1
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137068
+
+06 - Loop infinito
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/138406
+
+07 - Desafio: hora da prática
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137074
+
+08 - Para saber mais: operadores lógicos
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137077
+
+09 - O que aprendemos?
+    url - https://cursos.alura.com.br/course/logica-programacao-mergulhe-programacao-javascript/task/137079
