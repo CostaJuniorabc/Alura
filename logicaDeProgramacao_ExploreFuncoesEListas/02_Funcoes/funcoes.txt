@@ -1,0 +1,28 @@
+1 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137216
+    zip - https://github.com/alura-cursos/js-curso-2/archive/refs/heads/aula_1.zip
+    github - https://github.com/alura-cursos/js-curso-2/tree/aula_1
+
+2 - Funções com parâmetros
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136614
+
+3 - Funções com retorno
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136615
+
+4 -  Tipo booleano
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136616
+
+5 - Anatomia de uma função
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137217
+
+6 - Função que verifica números
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137218
+
+7 - Para saber mais: funções com JavaScript
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137219
+
+8 - Desafio: hora da prática
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137220
+
+9 - O que aprendemos?
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137221

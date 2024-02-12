@@ -1,0 +1,7 @@
+1 - Projeto da aula anterior
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137222
+    zip - https://github.com/alura-cursos/js-curso-2/archive/refs/heads/aula_2.zip
+    github - https://github.com/alura-cursos/js-curso-2/tree/aula_2
+
+2 - Verificando o chute
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136617

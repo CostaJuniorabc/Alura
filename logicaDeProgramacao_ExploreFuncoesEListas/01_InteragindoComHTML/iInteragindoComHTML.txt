@@ -1,0 +1,27 @@
+01 - Apresentação
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136611
+
+02 - Preparando o Ambiente
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137211
+    Download do projeto - https://caelum-online-public.s3.amazonaws.com/3271-programacao/js-curso-2-aula1.zip    
+    Download do Visual Code -https://code.visualstudio.com/download
+    
+03 - Manipulando textos
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136612
+
+04 - Criando uma função
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/136613
+
+05 - Manipulando conteúdo HTML com JavaScript
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137212
+
+06 - Para saber mais: diferenças entre html, css e Js
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137213
+
+07 - Desafio: hora da prática
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137214
+    resolução do desafio pelo instrutor - https://github.com/alura-cursos/js-curso-2/tree/desafio_1_respostas
+    
+08 - O que aprendemos?
+    url - https://cursos.alura.com.br/course/logica-programacao-funcoes-listas/task/137215
+    
